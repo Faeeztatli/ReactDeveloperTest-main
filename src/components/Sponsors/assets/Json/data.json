@@ -1,0 +1,29 @@
+{
+    "ImageList" :[
+      {
+        "src" : "static/media/src/components/Sponsors/assets/image/1.jpg",
+        "title" : "",
+        "height" : "",
+        "width" : ""
+        
+      },
+      {
+        "src" : "static/media/src/components/Sponsors/assets/image/1.jpg",
+        "title" : "",
+        "height" : "",
+        "width" : ""
+        
+      },
+      {
+        "src" : "static/media/src/components/Sponsors/assets/image/1.jpg",
+        "title" : "",
+        "height" : "",
+        "width" : ""
+        
+      }     
+    ],
+    "ComponentStyle": {
+      "containermaxwidth" : "784px",
+      "containerborder" : true
+    }
+  }
